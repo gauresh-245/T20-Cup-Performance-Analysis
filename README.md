@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bcfcf45f-3811-44bb-b5d5-8d36f3576af5)# 🏏 T20 Cup Performance Analysis
+# 🏏 T20 Cup Performance Analysis
 
 This project presents an in-depth performance analysis of players in a **T20 Cricket Tournament**, designed to highlight top performers and provide insights for team strategy and selection. Built using **Power BI**, the dashboard offers a visual representation of key statistics and trends throughout the tournament.
 
