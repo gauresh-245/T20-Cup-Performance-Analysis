@@ -49,10 +49,4 @@ Home Page:
 - **Excel / CSV** – For data preprocessing and input  
 - **Cricket Tournament Dataset** – Player stats and match details  
 
----
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/t20-cup-performance-analysis.git
